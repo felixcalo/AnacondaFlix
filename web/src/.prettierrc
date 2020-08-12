@@ -1,0 +1,7 @@
+{
+  "semi": true,
+  "comma-spacing": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "endOfLine": "crlf"
+}

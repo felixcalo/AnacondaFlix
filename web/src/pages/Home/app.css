@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  /* overflow: hidden; */
+}
+::-webkit-scrollbar {
+  display: none;
+}
+body {
+  background-color: black;
+}

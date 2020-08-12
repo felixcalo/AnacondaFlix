@@ -1,0 +1,37 @@
+.ButtonLink {
+  color: var(--red);
+  border: 1px solid var(--red);
+  box-sizing: border-box;
+  cursor: pointer;
+  padding: 16px 24px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  outline: none;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  transition: opacity 0.3s;
+  background-color: black;
+  margin-right: 30px;
+}
+
+.ButtonLink:hover,
+.ButtonLink:focus {
+  opacity: 0.5;
+}
+
+@media (max-width: 800px) {
+  .ButtonLink {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--red);
+    border-radius: 0;
+    border: 0;
+    text-align: center;
+    width: 100%;
+    color: var(--white);
+  }
+}
