@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AnacondaFlix/web/static/css/main.b1248acd.chunk.css",
+    "main.js": "/AnacondaFlix/web/static/js/main.ccfee163.chunk.js",
+    "main.js.map": "/AnacondaFlix/web/static/js/main.ccfee163.chunk.js.map",
+    "runtime-main.js": "/AnacondaFlix/web/static/js/runtime-main.b9bb86cb.js",
+    "runtime-main.js.map": "/AnacondaFlix/web/static/js/runtime-main.b9bb86cb.js.map",
+    "static/js/2.bb09a50f.chunk.js": "/AnacondaFlix/web/static/js/2.bb09a50f.chunk.js",
+    "static/js/2.bb09a50f.chunk.js.map": "/AnacondaFlix/web/static/js/2.bb09a50f.chunk.js.map",
+    "index.html": "/AnacondaFlix/web/index.html",
+    "precache-manifest.27447c172126e76bed9a4098a957afc7.js": "/AnacondaFlix/web/precache-manifest.27447c172126e76bed9a4098a957afc7.js",
+    "service-worker.js": "/AnacondaFlix/web/service-worker.js",
+    "static/css/main.b1248acd.chunk.css.map": "/AnacondaFlix/web/static/css/main.b1248acd.chunk.css.map",
+    "static/js/2.bb09a50f.chunk.js.LICENSE.txt": "/AnacondaFlix/web/static/js/2.bb09a50f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9bb86cb.js",
+    "static/js/2.bb09a50f.chunk.js",
+    "static/css/main.b1248acd.chunk.css",
+    "static/js/main.ccfee163.chunk.js"
+  ]
+}
